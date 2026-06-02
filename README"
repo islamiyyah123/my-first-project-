@@ -1,0 +1,13 @@
+#hashtable
+# 🗄️ Hash Table Implementation
+
+A custom Python implementation of a Hash Table (Associative Array) data structure from scratch. This project demonstrates how key-value pairs are stored, hashed, and retrieved efficiently behind the scenes.
+
+## 🚀 Features
+* **Custom Hashing**: Implements a hashing function to map string keys to specific array indices.
+* **Collision Resolution**: Handles index collisions cleanly to ensure data integrity.
+* **Core Dictionary Operations**: Supports standard operations including data insertion, lookups, and updates.
+
+## 🛠️ How to Run
+1. Make sure you have Python installed.
+2. Run the main script using: `python hash_table.py`
